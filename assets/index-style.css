@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Mali', cursive;
+  background-color: whitesmoke;
+  font-size: 18px;
+  color: #073b4c;
+}
+
+.navbar{
+  background-color: #ef476f !important;
+}
+
+footer{
+  background-color: #ffd166;
+  color: black;
+}
